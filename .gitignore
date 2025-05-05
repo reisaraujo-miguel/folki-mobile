@@ -36,3 +36,4 @@ yarn-error.*
 
 # heheheheh
 package-lock.json
+bun.lock
